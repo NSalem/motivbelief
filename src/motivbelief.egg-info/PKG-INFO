@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: motivbelief
+Version: 0.1.0
+Requires-Python: >=3.9
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: statsmodels>=0.14
+Requires-Dist: tabulate>=0.9
+Requires-Dist: matplotlib>=3.7

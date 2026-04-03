@@ -1,0 +1,11 @@
+label,exp1a_exp3,exp1b,exp2
+Observed,0.408,0.174,0.522
+Forced,0.449,,
+Replayed,0.558,,
+Free,0.670,0.460,0.686
+Forced - Free,-0.439,,
+Forced - Replayed,0.093,,
+Observed - Forced,-0.189,,
+Observed - Free,-0.616,-0.345,-0.432
+Observed - Replayed,-0.123,,
+Replayed - Free,-0.550,,

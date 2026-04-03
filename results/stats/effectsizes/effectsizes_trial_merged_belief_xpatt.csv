@@ -1,0 +1,4 @@
+label,Incentive|Correct,Incentive|Error
+Free,0.664,0.375
+Non-Free,0.428,0.196
+Free - Non-Free,0.445,0.291
