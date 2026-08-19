@@ -13,7 +13,7 @@
 | Incentive×Difficulty&#124;Correct | 0.01 ± 0.01<br/>t<sub>192</sub> = 1.71<br/>p = 0.089<br/>[-0.00, 0.03]         | -0.00 ± 0.01<br/>t<sub>295</sub> = -0.73<br/>p = 0.464<br/>[-0.02, 0.01]       |
 | Incentive×Difficulty&#124;Error   | -0.03 ± 0.04<br/>t<sub>185</sub> = -0.68<br/>p = 0.500<br/>[-0.10, 0.05]       | -0.00 ± 0.01<br/>t<sub>294</sub> = -0.28<br/>p = 0.778<br/>[-0.03, 0.02]       |
 
-## Between-groups (pairwise Welch)
+## Between-groups (paired or Welch t-test per row, see `test` column)
 
 | Effect                            | Free − Non-Free                                                                  |
 |:----------------------------------|:---------------------------------------------------------------------------------|

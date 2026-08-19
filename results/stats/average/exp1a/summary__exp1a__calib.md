@@ -21,11 +21,11 @@
 
 ### Between-group tests (pairwise Welch)
 
-| pair            | coef   |     mean |     se |       t |      df |      p |
-|:----------------|:-------|---------:|-------:|--------:|--------:|-------:|
-| Observed - Free | b0     | -10.0096 | 1.7873 | -5.6003 | 146.665 | 0      |
-| Observed - Free | b_inc  |  -2.8824 | 0.6674 | -4.3185 | 149.223 | 0      |
-| Observed - Free | b_abs  |   1.7133 | 1.01   |  1.6964 | 164.526 | 0.0917 |
+| pair            | coef   |     mean |     se |       t |      df |      p | test   |
+|:----------------|:-------|---------:|-------:|--------:|--------:|-------:|:-------|
+| Observed - Free | b0     | -10.0096 | 1.7873 | -5.6003 | 146.665 | 0      | welch  |
+| Observed - Free | b_inc  |  -2.8824 | 0.6674 | -4.3185 | 149.223 | 0      | welch  |
+| Observed - Free | b_abs  |   1.7133 | 1.01   |  1.6964 | 164.526 | 0.0917 | welch  |
 
 
 ### Paired t-tests between incentive conditions (within group)

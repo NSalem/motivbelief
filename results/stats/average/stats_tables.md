@@ -1255,74 +1255,74 @@
 <tr>
 <td>Free</td>
 <td>b0</td>
-<td>73.95 ± 0.65<br/>t<sub>192</sub> = 36.94<br/>p = .000 ***</td>
-<td>78.40 ± 0.57<br/>t<sub>192</sub> = 49.76<br/>p = .000 ***</td>
-<td>78.66 ± 0.50<br/>t<sub>192</sub> = 57.31<br/>p = .000 ***</td>
-<td>4.45 ± 0.64<br/>t<sub>192</sub> = 6.97<br/>p = .000 ***</td>
+<td>74.48 ± 0.69<br/>t<sub>192</sub> = 35.54<br/>p = .000 ***</td>
+<td>75.38 ± 1.03<br/>t<sub>192</sub> = 24.71<br/>p = .000 ***</td>
+<td>75.73 ± 0.98<br/>t<sub>192</sub> = 26.23<br/>p = .000 ***</td>
+<td>0.90 ± 1.11<br/>t<sub>192</sub> = 0.82<br/>p = 0.416</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_inc</td>
-<td>-0.12 ± 0.23<br/>t<sub>192</sub> = -0.53<br/>p = 0.600</td>
-<td>3.23 ± 0.11<br/>t<sub>192</sub> = 29.37<br/>p = .000 ***</td>
-<td>3.25 ± 0.11<br/>t<sub>192</sub> = 30.47<br/>p = .000 ***</td>
-<td>3.35 ± 0.23<br/>t<sub>192</sub> = 14.30<br/>p = .000 ***</td>
+<td>-0.28 ± 0.22<br/>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>2.63 ± 0.36<br/>t<sub>192</sub> = 7.27<br/>p = .000 ***</td>
+<td>2.02 ± 0.25<br/>t<sub>192</sub> = 8.12<br/>p = .000 ***</td>
+<td>2.91 ± 0.40<br/>t<sub>192</sub> = 7.20<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_abs</td>
-<td>-0.08 ± 0.34<br/>t<sub>192</sub> = -0.25<br/>p = 0.805</td>
-<td>-0.40 ± 0.14<br/>t<sub>192</sub> = -2.88<br/>p = 0.004 **</td>
-<td>-0.41 ± 0.14<br/>t<sub>192</sub> = -2.98<br/>p = 0.003 **</td>
-<td>-0.31 ± 0.35<br/>t<sub>192</sub> = -0.89<br/>p = 0.375</td>
+<td>0.91 ± 0.39<br/>t<sub>192</sub> = 2.32<br/>p = 0.022 *</td>
+<td>-0.52 ± 0.24<br/>t<sub>192</sub> = -2.21<br/>p = 0.028 *</td>
+<td>-0.06 ± 0.23<br/>t<sub>192</sub> = -0.27<br/>p = 0.785</td>
+<td>-1.43 ± 0.46<br/>t<sub>192</sub> = -3.12<br/>p = 0.002 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b0</td>
-<td>74.68 ± 0.32<br/>t<sub>192</sub> = 76.14<br/>p = .000 ***</td>
-<td>63.59 ± 0.45<br/>t<sub>192</sub> = 30.37<br/>p = .000 ***</td>
-<td>63.78 ± 0.42<br/>t<sub>192</sub> = 33.08<br/>p = .000 ***</td>
-<td>-11.09 ± 0.48<br/>t<sub>192</sub> = -23.00<br/>p = .000 ***</td>
+<td>74.50 ± 0.32<br/>t<sub>192</sub> = 76.70<br/>p = .000 ***</td>
+<td>65.60 ± 1.11<br/>t<sub>192</sub> = 14.01<br/>p = .000 ***</td>
+<td>67.01 ± 1.00<br/>t<sub>192</sub> = 17.00<br/>p = .000 ***</td>
+<td>-8.90 ± 1.13<br/>t<sub>192</sub> = -7.86<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_inc</td>
-<td>-0.14 ± 0.23<br/>t<sub>192</sub> = -0.58<br/>p = 0.561</td>
-<td>2.97 ± 0.17<br/>t<sub>192</sub> = 17.93<br/>p = .000 ***</td>
-<td>2.94 ± 0.15<br/>t<sub>192</sub> = 19.50<br/>p = .000 ***</td>
-<td>3.10 ± 0.23<br/>t<sub>192</sub> = 13.23<br/>p = .000 ***</td>
+<td>-0.43 ± 0.25<br/>t<sub>192</sub> = -1.69<br/>p = 0.092</td>
+<td>2.67 ± 0.39<br/>t<sub>192</sub> = 6.85<br/>p = .000 ***</td>
+<td>1.36 ± 0.25<br/>t<sub>192</sub> = 5.41<br/>p = .000 ***</td>
+<td>3.10 ± 0.43<br/>t<sub>192</sub> = 7.16<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_abs</td>
-<td>-0.07 ± 0.41<br/>t<sub>192</sub> = -0.17<br/>p = 0.861</td>
-<td>-0.29 ± 0.26<br/>t<sub>192</sub> = -1.13<br/>p = 0.262</td>
-<td>-0.17 ± 0.26<br/>t<sub>192</sub> = -0.66<br/>p = 0.508</td>
-<td>-0.22 ± 0.39<br/>t<sub>192</sub> = -0.57<br/>p = 0.570</td>
+<td>-0.09 ± 0.39<br/>t<sub>192</sub> = -0.24<br/>p = 0.814</td>
+<td>-0.79 ± 0.28<br/>t<sub>192</sub> = -2.83<br/>p = 0.005 **</td>
+<td>0.02 ± 0.31<br/>t<sub>192</sub> = 0.07<br/>p = 0.942</td>
+<td>-0.70 ± 0.44<br/>t<sub>192</sub> = -1.57<br/>p = 0.118</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b0</td>
-<td>0.73 ± 0.72<br/>t<sub>282.35</sub> = 1.01<br/>p = 0.314</td>
-<td>-14.81 ± 0.73<br/>t<sub>363.29</sub> = -20.43<br/>p = .000 ***</td>
-<td>-14.88 ± 0.65<br/>t<sub>371.82</sub> = -22.87<br/>p = .000 ***</td>
-<td>-15.55 ± 0.80<br/>t<sub>357.14</sub> = -19.42<br/>p = .000 ***</td>
+<td>0.02 ± 0.75<br/>t<sub>192</sub> = 0.03<br/>p = 0.979</td>
+<td>-9.78 ± 0.40<br/>t<sub>192</sub> = -24.57<br/>p = .000 ***</td>
+<td>-8.72 ± 0.46<br/>t<sub>192</sub> = -19.15<br/>p = .000 ***</td>
+<td>-9.80 ± 0.97<br/>t<sub>192</sub> = -10.15<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_inc</td>
-<td>-0.01 ± 0.33<br/>t<sub>383.99</sub> = -0.04<br/>p = 0.969</td>
-<td>-0.26 ± 0.20<br/>t<sub>333.74</sub> = -1.31<br/>p = 0.192</td>
-<td>-0.31 ± 0.18<br/>t<sub>345.86</sub> = -1.69<br/>p = 0.092</td>
-<td>-0.25 ± 0.33<br/>t<sub>384.00</sub> = -0.74<br/>p = 0.458</td>
+<td>-0.15 ± 0.32<br/>t<sub>192</sub> = -0.46<br/>p = 0.647</td>
+<td>0.04 ± 0.09<br/>t<sub>192</sub> = 0.49<br/>p = 0.624</td>
+<td>-0.66 ± 0.17<br/>t<sub>192</sub> = -3.89<br/>p = .000 ***</td>
+<td>0.19 ± 0.30<br/>t<sub>192</sub> = 0.64<br/>p = 0.523</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_abs</td>
-<td>0.01 ± 0.53<br/>t<sub>372.37</sub> = 0.02<br/>p = 0.981</td>
-<td>0.10 ± 0.29<br/>t<sub>291.82</sub> = 0.35<br/>p = 0.726</td>
-<td>0.24 ± 0.30<br/>t<sub>290.11</sub> = 0.80<br/>p = 0.427</td>
-<td>0.09 ± 0.52<br/>t<sub>379.83</sub> = 0.17<br/>p = 0.863</td>
+<td>-1.00 ± 0.58<br/>t<sub>192</sub> = -1.71<br/>p = 0.089</td>
+<td>-0.27 ± 0.12<br/>t<sub>192</sub> = -2.15<br/>p = 0.033 *</td>
+<td>0.09 ± 0.18<br/>t<sub>192</sub> = 0.49<br/>p = 0.623</td>
+<td>0.73 ± 0.53<br/>t<sub>192</sub> = 1.39<br/>p = 0.166</td>
 </tr>
 </tbody>
 </table>
@@ -1346,50 +1346,50 @@
 <tr>
 <td>Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = 0.09<br/>p = 0.926</td>
-<td>t<sub>192</sub> = -20.21<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -20.84<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -8.77<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.78<br/>p = 0.006 **</td>
+<td>t<sub>192</sub> = -5.86<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -5.37<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -6.34<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = -0.53<br/>p = 0.600</td>
-<td>t<sub>192</sub> = 29.37<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 30.47<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 14.30<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>t<sub>192</sub> = 7.27<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 8.12<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 7.20<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = -0.51<br/>p = 0.614</td>
-<td>t<sub>192</sub> = 16.36<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 16.46<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 7.13<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 1.35<br/>p = 0.179</td>
+<td>t<sub>192</sub> = 7.26<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 6.80<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.80<br/>p = 0.006 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = 0.14<br/>p = 0.889</td>
-<td>t<sub>192</sub> = -10.78<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -10.55<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -7.44<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 0.77<br/>p = 0.444</td>
+<td>t<sub>192</sub> = -5.83<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -2.95<br/>p = 0.004 **</td>
+<td>t<sub>192</sub> = -5.44<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = -0.58<br/>p = 0.561</td>
-<td>t<sub>192</sub> = 17.93<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 19.50<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 13.23<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -1.69<br/>p = 0.092</td>
+<td>t<sub>192</sub> = 6.85<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 5.41<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 7.16<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = -0.44<br/>p = 0.663</td>
-<td>t<sub>192</sub> = 8.52<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 8.91<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 6.23<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -1.08<br/>p = 0.282</td>
+<td>t<sub>192</sub> = 5.78<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 4.24<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 4.53<br/>p = .000 ***</td>
 </tr>
 </tbody>
 </table>
@@ -1414,74 +1414,74 @@
 <tr>
 <td>Free</td>
 <td>b0</td>
-<td>73.80 ± 0.69<br/>t<sub>192</sub> = 34.49<br/>p = .000 ***</td>
-<td>78.24 ± 0.57<br/>t<sub>192</sub> = 49.19<br/>p = .000 ***</td>
-<td>78.53 ± 0.49<br/>t<sub>192</sub> = 57.86<br/>p = .000 ***</td>
-<td>4.44 ± 0.68<br/>t<sub>192</sub> = 6.53<br/>p = .000 ***</td>
+<td>74.48 ± 0.69<br/>t<sub>192</sub> = 35.54<br/>p = .000 ***</td>
+<td>75.41 ± 1.03<br/>t<sub>192</sub> = 24.73<br/>p = .000 ***</td>
+<td>75.76 ± 0.98<br/>t<sub>192</sub> = 26.25<br/>p = .000 ***</td>
+<td>0.93 ± 1.11<br/>t<sub>192</sub> = 0.84<br/>p = 0.403</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_inc</td>
-<td>-0.39 ± 0.23<br/>t<sub>192</sub> = -1.70<br/>p = 0.091</td>
-<td>3.09 ± 0.12<br/>t<sub>192</sub> = 26.72<br/>p = .000 ***</td>
-<td>3.15 ± 0.11<br/>t<sub>192</sub> = 29.28<br/>p = .000 ***</td>
-<td>3.48 ± 0.22<br/>t<sub>192</sub> = 15.69<br/>p = .000 ***</td>
+<td>-0.28 ± 0.22<br/>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>2.64 ± 0.36<br/>t<sub>192</sub> = 7.30<br/>p = .000 ***</td>
+<td>2.03 ± 0.25<br/>t<sub>192</sub> = 8.18<br/>p = .000 ***</td>
+<td>2.92 ± 0.40<br/>t<sub>192</sub> = 7.22<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_abs</td>
-<td>-0.17 ± 0.38<br/>t<sub>192</sub> = -0.44<br/>p = 0.661</td>
-<td>-0.17 ± 0.14<br/>t<sub>192</sub> = -1.19<br/>p = 0.235</td>
-<td>-0.21 ± 0.14<br/>t<sub>192</sub> = -1.46<br/>p = 0.145</td>
-<td>-0.00 ± 0.36<br/>t<sub>192</sub> = -0.01<br/>p = 0.990</td>
+<td>0.91 ± 0.39<br/>t<sub>192</sub> = 2.32<br/>p = 0.022 *</td>
+<td>-0.55 ± 0.24<br/>t<sub>192</sub> = -2.30<br/>p = 0.023 *</td>
+<td>-0.08 ± 0.24<br/>t<sub>192</sub> = -0.33<br/>p = 0.738</td>
+<td>-1.45 ± 0.46<br/>t<sub>192</sub> = -3.17<br/>p = 0.002 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b0</td>
-<td>74.68 ± 0.33<br/>t<sub>192</sub> = 75.83<br/>p = .000 ***</td>
-<td>63.32 ± 0.43<br/>t<sub>192</sub> = 30.79<br/>p = .000 ***</td>
-<td>63.55 ± 0.39<br/>t<sub>192</sub> = 34.47<br/>p = .000 ***</td>
-<td>-11.36 ± 0.47<br/>t<sub>192</sub> = -23.95<br/>p = .000 ***</td>
+<td>74.57 ± 0.37<br/>t<sub>192</sub> = 67.09<br/>p = .000 ***</td>
+<td>62.90 ± 0.67<br/>t<sub>192</sub> = 19.39<br/>p = .000 ***</td>
+<td>63.40 ± 0.61<br/>t<sub>192</sub> = 21.89<br/>p = .000 ***</td>
+<td>-11.67 ± 0.69<br/>t<sub>192</sub> = -16.92<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_inc</td>
-<td>-0.05 ± 0.22<br/>t<sub>192</sub> = -0.23<br/>p = 0.815</td>
-<td>2.12 ± 0.15<br/>t<sub>192</sub> = 14.03<br/>p = .000 ***</td>
-<td>2.10 ± 0.15<br/>t<sub>192</sub> = 14.22<br/>p = .000 ***</td>
-<td>2.18 ± 0.21<br/>t<sub>192</sub> = 10.50<br/>p = .000 ***</td>
+<td>0.01 ± 0.21<br/>t<sub>192</sub> = 0.05<br/>p = 0.963</td>
+<td>1.62 ± 0.24<br/>t<sub>192</sub> = 6.65<br/>p = .000 ***</td>
+<td>0.92 ± 0.15<br/>t<sub>192</sub> = 6.01<br/>p = .000 ***</td>
+<td>1.61 ± 0.30<br/>t<sub>192</sub> = 5.36<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_abs</td>
-<td>0.27 ± 0.40<br/>t<sub>192</sub> = 0.69<br/>p = 0.493</td>
-<td>0.09 ± 0.25<br/>t<sub>192</sub> = 0.36<br/>p = 0.723</td>
-<td>0.11 ± 0.25<br/>t<sub>192</sub> = 0.42<br/>p = 0.678</td>
-<td>-0.18 ± 0.36<br/>t<sub>192</sub> = -0.51<br/>p = 0.613</td>
+<td>-0.13 ± 0.46<br/>t<sub>192</sub> = -0.29<br/>p = 0.775</td>
+<td>-0.42 ± 0.22<br/>t<sub>192</sub> = -1.93<br/>p = 0.056</td>
+<td>0.07 ± 0.23<br/>t<sub>192</sub> = 0.32<br/>p = 0.751</td>
+<td>-0.29 ± 0.40<br/>t<sub>192</sub> = -0.72<br/>p = 0.472</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b0</td>
-<td>0.88 ± 0.76<br/>t<sub>273.40</sub> = 1.15<br/>p = 0.249</td>
-<td>-14.92 ± 0.72<br/>t<sub>356.89</sub> = -20.76<br/>p = .000 ***</td>
-<td>-14.98 ± 0.63<br/>t<sub>365.82</sub> = -23.76<br/>p = .000 ***</td>
-<td>-15.80 ± 0.83<br/>t<sub>342.90</sub> = -19.05<br/>p = .000 ***</td>
+<td>0.08 ± 0.78<br/>t<sub>192</sub> = 0.11<br/>p = 0.913</td>
+<td>-12.51 ± 0.48<br/>t<sub>192</sub> = -26.31<br/>p = .000 ***</td>
+<td>-12.36 ± 0.49<br/>t<sub>192</sub> = -25.24<br/>p = .000 ***</td>
+<td>-12.59 ± 0.94<br/>t<sub>192</sub> = -13.38<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_inc</td>
-<td>0.34 ± 0.32<br/>t<sub>383.31</sub> = 1.06<br/>p = 0.288</td>
-<td>-0.97 ± 0.19<br/>t<sub>359.37</sub> = -5.09<br/>p = .000 ***</td>
-<td>-1.05 ± 0.18<br/>t<sub>350.81</sub> = -5.73<br/>p = .000 ***</td>
-<td>-1.31 ± 0.30<br/>t<sub>382.15</sub> = -4.31<br/>p = .000 ***</td>
+<td>0.29 ± 0.31<br/>t<sub>192</sub> = 0.94<br/>p = 0.347</td>
+<td>-1.02 ± 0.15<br/>t<sub>192</sub> = -6.68<br/>p = .000 ***</td>
+<td>-1.11 ± 0.16<br/>t<sub>192</sub> = -7.03<br/>p = .000 ***</td>
+<td>-1.31 ± 0.30<br/>t<sub>192</sub> = -4.38<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_abs</td>
-<td>0.44 ± 0.55<br/>t<sub>382.94</sub> = 0.80<br/>p = 0.423</td>
-<td>0.26 ± 0.29<br/>t<sub>302.27</sub> = 0.89<br/>p = 0.372</td>
-<td>0.31 ± 0.29<br/>t<sub>301.44</sub> = 1.08<br/>p = 0.282</td>
-<td>-0.18 ± 0.51<br/>t<sub>383.96</sub> = -0.35<br/>p = 0.726</td>
+<td>-1.04 ± 0.58<br/>t<sub>192</sub> = -1.81<br/>p = 0.072</td>
+<td>0.12 ± 0.18<br/>t<sub>192</sub> = 0.68<br/>p = 0.497</td>
+<td>0.15 ± 0.19<br/>t<sub>192</sub> = 0.80<br/>p = 0.423</td>
+<td>1.16 ± 0.52<br/>t<sub>192</sub> = 2.25<br/>p = 0.026 *</td>
 </tr>
 </tbody>
 </table>
@@ -1505,50 +1505,50 @@
 <tr>
 <td>Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = 0.50<br/>p = 0.620</td>
-<td>t<sub>192</sub> = -17.70<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -19.16<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -8.13<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.78<br/>p = 0.006 **</td>
+<td>t<sub>192</sub> = -5.92<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -5.42<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -6.39<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = -1.70<br/>p = 0.091</td>
-<td>t<sub>192</sub> = 26.72<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 29.28<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 15.69<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>t<sub>192</sub> = 7.30<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 8.18<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 7.22<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = -1.31<br/>p = 0.191</td>
-<td>t<sub>192</sub> = 16.01<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 16.25<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 8.51<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 1.35<br/>p = 0.179</td>
+<td>t<sub>192</sub> = 7.19<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 6.77<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.78<br/>p = 0.006 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = 0.69<br/>p = 0.494</td>
-<td>t<sub>192</sub> = -6.70<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -6.63<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -5.38<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -0.28<br/>p = 0.776</td>
+<td>t<sub>192</sub> = -5.30<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -2.97<br/>p = 0.003 **</td>
+<td>t<sub>192</sub> = -3.41<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = -0.23<br/>p = 0.815</td>
-<td>t<sub>192</sub> = 14.03<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 14.22<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 10.50<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 0.05<br/>p = 0.963</td>
+<td>t<sub>192</sub> = 6.65<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 6.01<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 5.36<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = 0.51<br/>p = 0.612</td>
-<td>t<sub>192</sub> = 7.74<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 7.71<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 5.11<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -0.24<br/>p = 0.812</td>
+<td>t<sub>192</sub> = 4.66<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 3.82<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 3.01<br/>p = 0.003 **</td>
 </tr>
 </tbody>
 </table>
@@ -1573,74 +1573,74 @@
 <tr>
 <td>Free</td>
 <td>b0</td>
-<td>73.90 ± 0.68<br/>t<sub>192</sub> = 35.32<br/>p = .000 ***</td>
-<td>78.42 ± 0.56<br/>t<sub>192</sub> = 50.61<br/>p = .000 ***</td>
-<td>78.67 ± 0.49<br/>t<sub>192</sub> = 58.74<br/>p = .000 ***</td>
-<td>4.52 ± 0.67<br/>t<sub>192</sub> = 6.77<br/>p = .000 ***</td>
+<td>74.48 ± 0.69<br/>t<sub>192</sub> = 35.54<br/>p = .000 ***</td>
+<td>75.41 ± 1.03<br/>t<sub>192</sub> = 24.71<br/>p = .000 ***</td>
+<td>75.76 ± 0.98<br/>t<sub>192</sub> = 26.23<br/>p = .000 ***</td>
+<td>0.93 ± 1.11<br/>t<sub>192</sub> = 0.84<br/>p = 0.403</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_inc</td>
-<td>0.16 ± 0.22<br/>t<sub>192</sub> = 0.70<br/>p = 0.484</td>
-<td>3.13 ± 0.11<br/>t<sub>192</sub> = 29.43<br/>p = .000 ***</td>
-<td>3.19 ± 0.10<br/>t<sub>192</sub> = 33.37<br/>p = .000 ***</td>
-<td>2.97 ± 0.23<br/>t<sub>192</sub> = 12.94<br/>p = .000 ***</td>
+<td>-0.28 ± 0.22<br/>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>2.63 ± 0.36<br/>t<sub>192</sub> = 7.27<br/>p = .000 ***</td>
+<td>2.02 ± 0.25<br/>t<sub>192</sub> = 8.12<br/>p = .000 ***</td>
+<td>2.91 ± 0.40<br/>t<sub>192</sub> = 7.20<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>b_abs</td>
-<td>0.13 ± 0.41<br/>t<sub>192</sub> = 0.32<br/>p = 0.752</td>
-<td>-0.24 ± 0.13<br/>t<sub>192</sub> = -1.82<br/>p = 0.070</td>
-<td>-0.29 ± 0.13<br/>t<sub>192</sub> = -2.16<br/>p = 0.032 *</td>
-<td>-0.37 ± 0.39<br/>t<sub>192</sub> = -0.95<br/>p = 0.342</td>
+<td>0.91 ± 0.39<br/>t<sub>192</sub> = 2.32<br/>p = 0.022 *</td>
+<td>-0.55 ± 0.24<br/>t<sub>192</sub> = -2.30<br/>p = 0.023 *</td>
+<td>-0.08 ± 0.24<br/>t<sub>192</sub> = -0.35<br/>p = 0.723</td>
+<td>-1.45 ± 0.46<br/>t<sub>192</sub> = -3.17<br/>p = 0.002 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b0</td>
-<td>74.09 ± 0.33<br/>t<sub>192</sub> = 73.27<br/>p = .000 ***</td>
-<td>63.37 ± 0.42<br/>t<sub>192</sub> = 31.49<br/>p = .000 ***</td>
-<td>63.56 ± 0.39<br/>t<sub>192</sub> = 34.65<br/>p = .000 ***</td>
-<td>-10.72 ± 0.45<br/>t<sub>192</sub> = -23.72<br/>p = .000 ***</td>
+<td>74.72 ± 0.33<br/>t<sub>192</sub> = 75.58<br/>p = .000 ***</td>
+<td>62.34 ± 0.43<br/>t<sub>192</sub> = 28.66<br/>p = .000 ***</td>
+<td>62.36 ± 0.43<br/>t<sub>192</sub> = 28.97<br/>p = .000 ***</td>
+<td>-12.38 ± 0.49<br/>t<sub>192</sub> = -25.48<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_inc</td>
-<td>-0.12 ± 0.25<br/>t<sub>192</sub> = -0.47<br/>p = 0.641</td>
-<td>0.95 ± 0.16<br/>t<sub>192</sub> = 6.06<br/>p = .000 ***</td>
-<td>0.92 ± 0.16<br/>t<sub>192</sub> = 5.85<br/>p = .000 ***</td>
-<td>1.07 ± 0.24<br/>t<sub>192</sub> = 4.40<br/>p = .000 ***</td>
+<td>-0.10 ± 0.24<br/>t<sub>192</sub> = -0.41<br/>p = 0.686</td>
+<td>0.80 ± 0.15<br/>t<sub>192</sub> = 5.21<br/>p = .000 ***</td>
+<td>0.64 ± 0.12<br/>t<sub>192</sub> = 5.38<br/>p = .000 ***</td>
+<td>0.90 ± 0.22<br/>t<sub>192</sub> = 4.06<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>b_abs</td>
-<td>0.36 ± 0.41<br/>t<sub>192</sub> = 0.87<br/>p = 0.386</td>
-<td>-0.22 ± 0.24<br/>t<sub>192</sub> = -0.91<br/>p = 0.362</td>
-<td>-0.19 ± 0.24<br/>t<sub>192</sub> = -0.80<br/>p = 0.423</td>
-<td>-0.58 ± 0.38<br/>t<sub>192</sub> = -1.52<br/>p = 0.130</td>
+<td>-0.10 ± 0.39<br/>t<sub>192</sub> = -0.26<br/>p = 0.792</td>
+<td>-0.35 ± 0.17<br/>t<sub>192</sub> = -2.11<br/>p = 0.036 *</td>
+<td>-0.20 ± 0.17<br/>t<sub>192</sub> = -1.21<br/>p = 0.229</td>
+<td>-0.25 ± 0.33<br/>t<sub>192</sub> = -0.76<br/>p = 0.450</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b0</td>
-<td>0.19 ± 0.75<br/>t<sub>277.91</sub> = 0.26<br/>p = 0.796</td>
-<td>-15.04 ± 0.70<br/>t<sub>357.47</sub> = -21.37<br/>p = .000 ***</td>
-<td>-15.11 ± 0.63<br/>t<sub>366.68</sub> = -24.15<br/>p = .000 ***</td>
-<td>-15.24 ± 0.81<br/>t<sub>337.74</sub> = -18.92<br/>p = .000 ***</td>
+<td>0.24 ± 0.75<br/>t<sub>192</sub> = 0.32<br/>p = 0.749</td>
+<td>-13.07 ± 0.72<br/>t<sub>192</sub> = -18.10<br/>p = .000 ***</td>
+<td>-13.39 ± 0.69<br/>t<sub>192</sub> = -19.46<br/>p = .000 ***</td>
+<td>-13.31 ± 1.02<br/>t<sub>192</sub> = -13.03<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_inc</td>
-<td>-0.27 ± 0.33<br/>t<sub>378.71</sub> = -0.82<br/>p = 0.415</td>
-<td>-2.18 ± 0.19<br/>t<sub>337.82</sub> = -11.50<br/>p = .000 ***</td>
-<td>-2.27 ± 0.18<br/>t<sub>317.22</sub> = -12.36<br/>p = .000 ***</td>
-<td>-1.90 ± 0.33<br/>t<sub>382.93</sub> = -5.71<br/>p = .000 ***</td>
+<td>0.18 ± 0.33<br/>t<sub>192</sub> = 0.56<br/>p = 0.576</td>
+<td>-1.83 ± 0.26<br/>t<sub>192</sub> = -6.94<br/>p = .000 ***</td>
+<td>-1.38 ± 0.20<br/>t<sub>192</sub> = -6.75<br/>p = .000 ***</td>
+<td>-2.01 ± 0.38<br/>t<sub>192</sub> = -5.25<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free - Free</td>
 <td>b_abs</td>
-<td>0.23 ± 0.58<br/>t<sub>384.00</sub> = 0.39<br/>p = 0.696</td>
-<td>0.02 ± 0.27<br/>t<sub>301.16</sub> = 0.09<br/>p = 0.928</td>
-<td>0.10 ± 0.27<br/>t<sub>300.79</sub> = 0.35<br/>p = 0.728</td>
-<td>-0.20 ± 0.54<br/>t<sub>383.50</sub> = -0.37<br/>p = 0.711</td>
+<td>-1.01 ± 0.56<br/>t<sub>192</sub> = -1.79<br/>p = 0.074</td>
+<td>0.19 ± 0.24<br/>t<sub>192</sub> = 0.83<br/>p = 0.409</td>
+<td>-0.12 ± 0.23<br/>t<sub>192</sub> = -0.52<br/>p = 0.601</td>
+<td>1.21 ± 0.53<br/>t<sub>192</sub> = 2.26<br/>p = 0.025 *</td>
 </tr>
 </tbody>
 </table>
@@ -1664,50 +1664,50 @@
 <tr>
 <td>Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = -0.06<br/>p = 0.955</td>
-<td>t<sub>192</sub> = -17.73<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -19.38<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -7.41<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.78<br/>p = 0.006 **</td>
+<td>t<sub>192</sub> = -5.90<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -5.42<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -6.38<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = 0.70<br/>p = 0.484</td>
-<td>t<sub>192</sub> = 29.43<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 33.37<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 12.94<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -1.30<br/>p = 0.195</td>
+<td>t<sub>192</sub> = 7.27<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 8.12<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 7.20<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = 0.60<br/>p = 0.550</td>
-<td>t<sub>192</sub> = 19.28<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 19.70<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 5.67<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 1.35<br/>p = 0.179</td>
+<td>t<sub>192</sub> = 7.14<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 6.70<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 2.76<br/>p = 0.006 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>-1 - 0</td>
-<td>t<sub>192</sub> = 0.98<br/>p = 0.329</td>
-<td>t<sub>192</sub> = -4.32<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -4.09<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = -3.73<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -0.01<br/>p = 0.989</td>
+<td>t<sub>192</sub> = -4.61<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -3.97<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -2.74<br/>p = 0.007 **</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - -1</td>
-<td>t<sub>192</sub> = -0.47<br/>p = 0.641</td>
-<td>t<sub>192</sub> = 6.06<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 5.85<br/>p = .000 ***</td>
-<td>t<sub>192</sub> = 4.40<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = -0.41<br/>p = 0.686</td>
+<td>t<sub>192</sub> = 5.21<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 5.38<br/>p = .000 ***</td>
+<td>t<sub>192</sub> = 4.06<br/>p = .000 ***</td>
 </tr>
 <tr>
 <td>Non-Free</td>
 <td>1 - 0</td>
-<td>t<sub>192</sub> = 0.50<br/>p = 0.616</td>
-<td>t<sub>192</sub> = 2.42<br/>p = 0.016 *</td>
-<td>t<sub>192</sub> = 2.42<br/>p = 0.017 *</td>
-<td>t<sub>192</sub> = 1.07<br/>p = 0.286</td>
+<td>t<sub>192</sub> = -0.45<br/>p = 0.653</td>
+<td>t<sub>192</sub> = 2.24<br/>p = 0.026 *</td>
+<td>t<sub>192</sub> = 2.16<br/>p = 0.032 *</td>
+<td>t<sub>192</sub> = 1.76<br/>p = 0.080</td>
 </tr>
 </tbody>
 </table>

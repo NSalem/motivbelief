@@ -8,3 +8,7 @@ Requires-Dist: scipy>=1.10
 Requires-Dist: statsmodels>=0.14
 Requires-Dist: tabulate>=0.9
 Requires-Dist: matplotlib>=3.7
+Requires-Dist: pybads>=1.0
+Requires-Dist: numba>=0.58
+Requires-Dist: threadpoolctl>=3.0
+Requires-Dist: groupBMC>=1.0

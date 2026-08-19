@@ -1,0 +1,110 @@
+{
+  "package": "hmetad",
+  "hmetad_version": "0.1.2",
+  "brms_version": "2.23.0",
+  "backend": "cmdstanr",
+  "fit_mode": "bayes_individual",
+  "criteria_mode": "default",
+  "K": 6,
+  "n_chains": 4,
+  "n_cores": 4,
+  "n_iter": 5000,
+  "n_warmup": 1000,
+  "seed": 1,
+  "empty": false,
+  "save_fits": false,
+  "choice_types_requested": [
+    "Free",
+    "Observed",
+    "Forced",
+    "Replayed"
+  ],
+  "choice_types": [
+    "Free",
+    "Observed"
+  ],
+  "n_trials": 46034,
+  "n_participants": 197,
+  "n_fit_units": 197,
+  "n_fitted": 197,
+  "n_failed": 0,
+  "failed_units": [],
+  "formula": "structure(list(formula = N ~ incentive * coh3, pforms = list(     dprime = dprime ~ coh3, c = c ~ 1, metac2zero1diff = metac2zero1diff ~          incentive, metac2zero2diff = metac2zero2diff ~ incentive,      metac2zero3diff = metac2zero3diff ~ incentive, metac2zero4diff = metac2zero4diff ~          incentive, metac2zero5diff = metac2zero5diff ~ incentive,      metac2one1diff = metac2one1diff ~ incentive, metac2one2diff = metac2one2diff ~          incentive, metac2one3diff = metac2one3diff ~ incentive,      metac2one4diff = metac2one4diff ~ incentive, metac2one5diff = metac2one5diff ~          incentive), pfix = list(), resp = \"N\", family = NULL), class = c(\"brmsformula\",  \"bform\"))",
+  "preparation": {
+    "dataset": "exp2",
+    "fit_mode": "bayes_individual",
+    "n_ratings": 6,
+    "conf_edges": [
+      0,
+      16.6667,
+      33.3333,
+      50,
+      66.6667,
+      83.3333,
+      100
+    ],
+    "conf_binning": {
+      "scheme": "equal_width",
+      "lo": 0,
+      "hi": 100
+    },
+    "choice_types": [
+      "Free",
+      "Observed"
+    ],
+    "incentive_coding": {
+      "scheme": "factor",
+      "levels": [
+        "-1",
+        "0",
+        "1"
+      ],
+      "raw_levels": [
+        -1,
+        0,
+        1
+      ],
+      "note": "incentive as unordered factor; treatment contrasts (first level = reference)"
+    },
+    "coh3_coding": {
+      "scheme": "ordered3",
+      "map": {
+        "1": -1,
+        "3": -1,
+        "5": 0,
+        "9": 1,
+        "38": 1
+      },
+      "levels": [
+        -1,
+        0,
+        1
+      ],
+      "labels": {
+        "low": [
+          1,
+          3
+        ],
+        "mid": [
+          5
+        ],
+        "high": [
+          9,
+          38
+        ]
+      },
+      "note": "low={1,3}->-1; mid={5}->0; high={9,38}->+1 (linear slope on coh3)"
+    },
+    "n_trials": 46034,
+    "n_participants": 197,
+    "n_fit_units": 197
+  },
+  "note": "Per-participant Bayesian fits (hmetad), one unit per participant × choiceType. Legacy hierarchical: scripts/r/_old/fit_hmeta_d_hierarchical.R; legacy MLE: scripts/_old/fit_hmeta_d_mle.py",
+  "outputs": {
+    "subject_summary": "subject_summary.csv",
+    "group_summary": "group_summary.csv",
+    "subject_effects": "subject_effects.csv",
+    "cell_mratio_summary": "cell_mratio_summary.csv",
+    "convergence_qc": "convergence_qc.csv"
+  }
+}

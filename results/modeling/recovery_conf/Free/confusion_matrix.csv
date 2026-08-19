@@ -1,0 +1,5 @@
+generative_model,predicted_model,n,n_total,fraction
+bel_bias_v,bel_bias_v,107,250,0.428
+bel_bias_v,pe_wt_v,143,250,0.572
+pe_wt_v,bel_bias_v,17,250,0.068
+pe_wt_v,pe_wt_v,233,250,0.932

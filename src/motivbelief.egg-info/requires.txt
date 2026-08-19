@@ -4,3 +4,7 @@ scipy>=1.10
 statsmodels>=0.14
 tabulate>=0.9
 matplotlib>=3.7
+pybads>=1.0
+numba>=0.58
+threadpoolctl>=3.0
+groupBMC>=1.0

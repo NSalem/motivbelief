@@ -27,26 +27,26 @@
 
 ### Between-group tests (pairwise Welch)
 
-| pair                | coef   |     mean |     se |       t |      df |      p |
-|:--------------------|:-------|---------:|-------:|--------:|--------:|-------:|
-| Replayed - Free     | b0     |  -2.8645 | 1.8353 | -1.5608 | 156.293 | 0.1206 |
-| Replayed - Free     | b_inc  |  -2.8484 | 0.6665 | -4.2735 | 148.44  | 0      |
-| Replayed - Free     | b_abs  |  -0.9522 | 1.0571 | -0.9007 | 177.038 | 0.369  |
-| Forced - Free       | b0     |  -7.8675 | 1.7356 | -4.5329 | 134.81  | 0      |
-| Forced - Free       | b_inc  |  -2.5876 | 0.7187 | -3.6003 | 173.411 | 0.0004 |
-| Forced - Free       | b_abs  |   0.392  | 1.0236 |  0.3829 | 168.218 | 0.7023 |
-| Observed - Free     | b0     | -10.0096 | 1.7873 | -5.6003 | 146.665 | 0      |
-| Observed - Free     | b_inc  |  -2.8824 | 0.6674 | -4.3185 | 149.223 | 0      |
-| Observed - Free     | b_abs  |   1.7133 | 1.01   |  1.6964 | 164.526 | 0.0917 |
-| Forced - Replayed   | b0     |  -5.003  | 1.199  | -4.1725 | 182.802 | 0      |
-| Forced - Replayed   | b_inc  |   0.2609 | 0.5297 |  0.4925 | 181.92  | 0.6229 |
-| Forced - Replayed   | b_abs  |   1.3441 | 0.857  |  1.5684 | 192.264 | 0.1184 |
-| Observed - Replayed | b0     |  -7.1451 | 1.2727 | -5.6142 | 193.331 | 0      |
-| Observed - Replayed | b_inc  |  -0.0339 | 0.4577 | -0.0741 | 195.996 | 0.941  |
-| Observed - Replayed | b_abs  |   2.6654 | 0.8407 |  3.1704 | 191.797 | 0.0018 |
-| Observed - Forced   | b0     |  -2.1421 | 1.1242 | -1.9054 | 192.551 | 0.0582 |
-| Observed - Forced   | b_inc  |  -0.2948 | 0.5308 | -0.5554 | 183.371 | 0.5793 |
-| Observed - Forced   | b_abs  |   1.3213 | 0.7982 |  1.6555 | 195.439 | 0.0994 |
+| pair                | coef   |     mean |     se |       t |      df |      p | test   |
+|:--------------------|:-------|---------:|-------:|--------:|--------:|-------:|:-------|
+| Replayed - Free     | b0     |  -2.8645 | 1.8353 | -1.5608 | 156.293 | 0.1206 | welch  |
+| Replayed - Free     | b_inc  |  -2.8484 | 0.6665 | -4.2735 | 148.44  | 0      | welch  |
+| Replayed - Free     | b_abs  |  -0.9522 | 1.0571 | -0.9007 | 177.038 | 0.369  | welch  |
+| Forced - Free       | b0     |  -7.8675 | 1.7356 | -4.5329 | 134.81  | 0      | welch  |
+| Forced - Free       | b_inc  |  -2.5876 | 0.7187 | -3.6003 | 173.411 | 0.0004 | welch  |
+| Forced - Free       | b_abs  |   0.392  | 1.0236 |  0.3829 | 168.218 | 0.7023 | welch  |
+| Observed - Free     | b0     | -10.0096 | 1.7873 | -5.6003 | 146.665 | 0      | welch  |
+| Observed - Free     | b_inc  |  -2.8824 | 0.6674 | -4.3185 | 149.223 | 0      | welch  |
+| Observed - Free     | b_abs  |   1.7133 | 1.01   |  1.6964 | 164.526 | 0.0917 | welch  |
+| Forced - Replayed   | b0     |  -5.003  | 1.199  | -4.1725 | 182.802 | 0      | welch  |
+| Forced - Replayed   | b_inc  |   0.2609 | 0.5297 |  0.4925 | 181.92  | 0.6229 | welch  |
+| Forced - Replayed   | b_abs  |   1.3441 | 0.857  |  1.5684 | 192.264 | 0.1184 | welch  |
+| Observed - Replayed | b0     |  -7.1451 | 1.2727 | -5.6142 | 193.331 | 0      | welch  |
+| Observed - Replayed | b_inc  |  -0.0339 | 0.4577 | -0.0741 | 195.996 | 0.941  | welch  |
+| Observed - Replayed | b_abs  |   2.6654 | 0.8407 |  3.1704 | 191.797 | 0.0018 | welch  |
+| Observed - Forced   | b0     |  -2.1421 | 1.1242 | -1.9054 | 192.551 | 0.0582 | welch  |
+| Observed - Forced   | b_inc  |  -0.2948 | 0.5308 | -0.5554 | 183.371 | 0.5793 | welch  |
+| Observed - Forced   | b_abs  |   1.3213 | 0.7982 |  1.6555 | 195.439 | 0.0994 | welch  |
 
 
 ### Paired t-tests between incentive conditions (within group)

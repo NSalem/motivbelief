@@ -1,0 +1,39 @@
+{
+  "model_spec": {
+    "parnames": [
+      "sens_noise",
+      "sens_bias",
+      "p_lapse"
+    ],
+    "bounds": {
+      "lower": [
+        0.5,
+        -10.0,
+        0.0
+      ],
+      "upper": [
+        30.0,
+        10.0,
+        0.1
+      ],
+      "plausible_lower": [
+        1.0,
+        -5.0,
+        0.01
+      ],
+      "plausible_upper": [
+        10.0,
+        5.0,
+        0.05
+      ]
+    },
+    "fixed_pars": {}
+  },
+  "fitting_config": {
+    "optimizer": "LBFGS",
+    "maxiter": 300,
+    "n_restarts": 5,
+    "use_x0": false
+  },
+  "timestamp": "2026-08-08T18:35:35.018824Z"
+}

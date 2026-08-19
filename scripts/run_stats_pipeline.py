@@ -6,12 +6,16 @@ Run the full Python stats pipeline in order:
   3) motivbelief.stats_xpatt → trial-level xpatt outputs
   4) motivbelief.make_stats_xpatt_summary → aggregate xpatt markdown
   5) motivbelief.make_effectsize_tables → Cohen's d tables under effectsizes/
+  6) motivbelief.stats.stats_hmeta → meta-d′ beta0/beta1 coh regressions + AVG-style incentive
+     stats, then motivbelief.stats.make_stats_hmeta_summary → aggregate markdown
+     (needs results/hmeta_d/)
 
 Defaults mirror the standalone modules (`results/stats/...`).
 
 Usage:
   python scripts/run_stats_pipeline.py
   python scripts/run_stats_pipeline.py --repo-root . --avg-root results/stats/average
+  python scripts/run_stats_pipeline.py --skip-hmeta
 """
 
 from __future__ import annotations
@@ -50,26 +54,29 @@ def run_stats_pipeline(
     avg_root_rel: Path,
     trial_root_rel: Path,
     effects_root_rel: Path,
+    hmeta_root_rel: Path,
+    skip_hmeta: bool = False,
 ) -> None:
     repo = repo_root.resolve()
     avg_root = (repo / avg_root_rel).resolve()
     trial_root = (repo / trial_root_rel).resolve()
     effects_root = (repo / effects_root_rel).resolve()
+    hmeta_root = (repo / hmeta_root_rel).resolve()
 
     # 1–2: average stats + summary doc
-    _run_module(repo, "motivbelief.stats_avg", ["--out-root", str(avg_root)])
+    _run_module(repo, "motivbelief.stats.stats_avg", ["--out-root", str(avg_root)])
     _run_module(
         repo,
-        "motivbelief.make_stats_avg_summary",
+        "motivbelief.stats.make_stats_avg_summary",
         ["--out-root", str(avg_root)],
         with_repo_root=False,
     )
 
     # 3–4: trial xpatt + aggregate xpatt markdown
-    _run_module(repo, "motivbelief.stats_xpatt", ["--out-root", str(trial_root)])
+    _run_module(repo, "motivbelief.stats.stats_xpatt", ["--out-root", str(trial_root)])
     _run_module(
         repo,
-        "motivbelief.make_stats_xpatt_summary",
+        "motivbelief.stats.make_stats_xpatt_summary",
         ["--trial-root", str(trial_root)],
         with_repo_root=False,
     )
@@ -77,7 +84,7 @@ def run_stats_pipeline(
     # 5: effect sizes (paths relative to repo, same as make_effectsize_tables CLI)
     _run_module(
         repo,
-        "motivbelief.make_effectsize_tables",
+        "motivbelief.stats.make_effectsize_tables",
         [
             "--avg-root",
             str(avg_root_rel).replace("\\", "/"),
@@ -88,11 +95,26 @@ def run_stats_pipeline(
         ],
     )
 
-    print(f"Done. Outputs: {avg_root}, {trial_root}, {effects_root}", flush=True)
+    # 6: meta-d′ stats (skippable; also no-ops if fits missing) + aggregate summary
+    if not skip_hmeta:
+        _run_module(repo, "motivbelief.stats.stats_hmeta", ["--out-root", str(hmeta_root)])
+        _run_module(
+            repo,
+            "motivbelief.stats.make_stats_hmeta_summary",
+            ["--out-root", str(hmeta_root)],
+            with_repo_root=False,
+        )
+
+    done = f"Done. Outputs: {avg_root}, {trial_root}, {effects_root}"
+    if not skip_hmeta:
+        done += f", {hmeta_root}"
+    print(done, flush=True)
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="Run stats_avg → summaries → stats_xpatt → effect sizes.")
+    ap = argparse.ArgumentParser(
+        description="Run stats_avg → summaries → stats_xpatt → effect sizes → stats_hmeta."
+    )
     ap.add_argument("--repo-root", type=Path, default=Path("."), help="Project root (default: cwd)")
     ap.add_argument(
         "--avg-root",
@@ -112,12 +134,25 @@ def main() -> None:
         default=Path("results/stats/effectsizes"),
         help="Output folder for make_effectsize_tables (relative to repo unless absolute)",
     )
+    ap.add_argument(
+        "--hmeta-root",
+        type=Path,
+        default=Path("results/stats/hmeta"),
+        help="Output folder for stats_hmeta (relative to repo unless absolute)",
+    )
+    ap.add_argument(
+        "--skip-hmeta",
+        action="store_true",
+        help="Skip meta-d′ stats (step 6)",
+    )
     args = ap.parse_args()
     run_stats_pipeline(
         args.repo_root,
         avg_root_rel=args.avg_root,
         trial_root_rel=args.trial_root,
         effects_root_rel=args.effects_root,
+        hmeta_root_rel=args.hmeta_root,
+        skip_hmeta=args.skip_hmeta,
     )
 
 

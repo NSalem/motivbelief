@@ -1,0 +1,26 @@
+                   Mixed Linear Model Regression Results
+===========================================================================
+Model:                  MixedLM       Dependent Variable:       conf       
+No. Observations:       2895          Method:                   REML       
+No. Groups:             193           Scale:                    44.7701    
+Min. group size:        15            Log-Likelihood:           -10306.1875
+Max. group size:        15            Converged:                Yes        
+Mean group size:        15.0                                               
+---------------------------------------------------------------------------
+                                 Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+---------------------------------------------------------------------------
+Intercept                        72.420    0.849 85.327 0.000 70.757 74.084
+acc_c                            39.246    1.969 19.935 0.000 35.388 43.105
+incentive                         3.327    0.330 10.076 0.000  2.680  3.974
+acc_c:incentive                  -4.894    0.953 -5.134 0.000 -6.763 -3.026
+Group Var                       134.979    2.212                           
+Group x acc_c Cov               -61.847    3.565                           
+acc_c Var                       632.723   12.189                           
+Group x incentive Cov            -9.399    0.588                           
+acc_c x incentive Cov            -8.323    1.343                           
+incentive Var                    15.921    0.329                           
+Group x acc_c:incentive Cov     -12.374    2.031                           
+acc_c x acc_c:incentive Cov     -70.702    5.173                           
+incentive x acc_c:incentive Cov  -9.493    0.801                           
+acc_c:incentive Var              20.345    5.287                           
+===========================================================================
